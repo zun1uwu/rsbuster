@@ -1,5 +1,3 @@
-#![feature(str_split_as_str)]
-
 use std::{env, fs::File, io::Read, ops::Index, process};
 
 #[tokio::main]
